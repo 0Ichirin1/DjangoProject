@@ -26,6 +26,7 @@ SECRET_KEY = 'ol#w)ima-a&98$=!pxc80+0bqktw5++hk(+-n)*%y7!^qr=as@'
 DEBUG = True
 
 ALLOWED_HOSTS = []
+PASSWORD = 'jfdlsjasifdisojfosjo1j3232'
 
 
 # Application definition
