@@ -1,0 +1,1421 @@
+2021-02-18 11:48:59,679 interview.performance 13 INFO     0.029780864715576172 / {}
+2021-02-18 11:49:02,313 interview.performance 13 INFO     0.016597986221313477 /favicon.ico {}
+2021-02-18 11:49:06,628 interview.performance 13 INFO     0.02696824073791504 /admin/ {}
+2021-02-18 11:49:06,896 interview.performance 13 INFO     0.25841689109802246 /admin/login/ {'next': '/admin/'}
+2021-02-18 11:49:08,010 interview.performance 13 INFO     0.0010879039764404297 /admin/ {}
+2021-02-18 11:49:08,027 interview.performance 13 INFO     0.010707378387451172 /admin/login/ {'next': '/admin/'}
+2021-02-18 11:49:13,156 interview.performance 13 INFO     0.08988404273986816 /admin/login/ {'next': '/admin/'}
+2021-02-18 11:49:13,187 interview.performance 13 INFO     0.025446176528930664 /admin/ {}
+2021-02-18 11:49:13,638 interview.performance 13 INFO     0.004054069519042969 /favicon.ico {}
+2021-02-18 11:52:12,235 interview.performance 13 INFO     0.21450018882751465 /admin/interview/candidate/ {}
+2021-02-18 11:52:12,389 interview.performance 13 INFO     0.01338505744934082 /admin/jsi18n/ {}
+2021-02-18 11:52:17,094 interview.performance 13 INFO     0.1870729923248291 /admin/interview/candidate/5/change/ {}
+2021-02-18 11:52:17,208 interview.performance 13 INFO     0.00841379165649414 /admin/jsi18n/ {}
+2021-02-18 11:52:23,317 interview.performance 13 INFO     0.17027688026428223 /admin/interview/candidate/ {}
+2021-02-18 11:52:23,475 interview.performance 13 INFO     0.007565021514892578 /admin/jsi18n/ {}
+2021-02-18 11:52:24,990 interview.performance 13 INFO     0.007981061935424805 /resume/1 {}
+2021-02-18 11:53:46,930 interview.performance 13 INFO     0.010915040969848633 / {}
+2021-02-18 11:53:48,381 interview.performance 13 INFO     0.008323192596435547 /job/1/ {}
+2021-02-18 11:53:49,949 interview.performance 13 INFO     0.2726409435272217 /resume/add/ {'apply_position': '音视频工程师', 'city': '上海'}
+2021-02-18 11:54:40,838 interview.performance 13 INFO     0.04123091697692871 /resume/add/ {'apply_position': '音视频工程师', 'city': '上海'}
+2021-02-18 11:55:36,270 interview.performance 13 INFO     0.010535001754760742 /job/1/ {}
+2021-02-18 11:55:36,770 interview.performance 13 INFO     0.01007080078125 / {}
+2021-02-18 11:55:37,705 interview.performance 13 INFO     0.13209962844848633 /admin/interview/candidate/ {}
+2021-02-18 11:55:37,816 interview.performance 13 INFO     0.012498140335083008 /admin/jsi18n/ {}
+2021-02-18 11:55:38,410 interview.performance 13 INFO     0.13985824584960938 /admin/interview/candidate/5/change/ {}
+2021-02-18 11:55:38,510 interview.performance 13 INFO     0.01485586166381836 /admin/jsi18n/ {}
+2021-02-18 11:55:48,387 interview.performance 13 INFO     0.1451561450958252 /admin/interview/candidate/ {}
+2021-02-18 11:55:48,525 interview.performance 13 INFO     0.010596990585327148 /admin/jsi18n/ {}
+2021-02-18 11:55:59,481 interview.performance 13 INFO     0.016833066940307617 /admin/interview/ {}
+2021-02-18 11:56:01,393 interview.performance 13 INFO     0.1835789680480957 /admin/interview/candidate/ {}
+2021-02-18 11:56:01,512 interview.performance 13 INFO     0.007298946380615234 /admin/jsi18n/ {}
+2021-02-18 11:56:09,403 interview.performance 13 INFO     0.1371002197265625 /admin/interview/candidate/5/change/ {}
+2021-02-18 11:56:09,522 interview.performance 13 INFO     0.01168513298034668 /admin/jsi18n/ {}
+2021-02-18 12:10:37,730 interview.performance 13 INFO     0.024224042892456055 / {}
+2021-02-18 12:58:27,644 interview.performance 13 INFO     0.033004045486450195 / {}
+2021-02-18 12:58:40,718 interview.performance 13 INFO     0.12368178367614746 /admin/ {}
+2021-02-18 12:58:41,529 interview.performance 13 INFO     0.02280282974243164 /admin/ {}
+2021-02-18 12:59:07,118 interview.performance 13 INFO     0.008890867233276367 / {}
+2021-02-18 13:02:24,605 interview.performance 13 INFO     0.014097929000854492 / {}
+2021-02-18 13:02:28,678 interview.performance 13 INFO     0.032173871994018555 /i18n/setlang/ {}
+2021-02-18 13:02:28,704 interview.performance 13 INFO     0.010576963424682617 / {}
+2021-02-18 13:03:55,815 interview.performance 13 INFO     0.011922121047973633 / {}
+2021-02-18 13:04:08,646 interview.performance 13 INFO     0.013410091400146484 / {}
+2021-02-18 13:07:33,773 interview.performance 13 INFO     0.04720711708068848 / {}
+2021-02-18 13:07:38,218 interview.performance 13 INFO     0.012120962142944336 /i18n/setlang/ {}
+2021-02-18 13:07:38,235 interview.performance 13 INFO     0.01043701171875 / {}
+2021-02-18 13:07:42,083 interview.performance 13 INFO     0.0060732364654541016 /i18n/setlang/ {}
+2021-02-18 13:07:42,098 interview.performance 13 INFO     0.00852203369140625 / {}
+2021-02-18 13:07:47,478 interview.performance 13 INFO     0.008083105087280273 /i18n/setlang/ {}
+2021-02-18 13:07:47,498 interview.performance 13 INFO     0.012401819229125977 / {}
+2021-02-18 13:08:03,189 interview.performance 13 INFO     0.07732105255126953 /admin/ {}
+2021-02-18 13:08:03,983 interview.performance 13 INFO     0.025587081909179688 /admin/ {}
+2021-02-18 13:08:09,232 interview.performance 13 INFO     0.05052018165588379 /admin/jobs/resume/ {}
+2021-02-18 13:08:09,335 interview.performance 13 INFO     0.013087987899780273 /admin/jsi18n/ {}
+2021-02-18 13:08:15,374 interview.performance 13 INFO     0.017391204833984375 /admin/jobs/ {}
+2021-02-18 13:08:16,740 interview.performance 13 INFO     0.04302096366882324 /admin/jobs/job/ {}
+2021-02-18 13:08:16,940 interview.performance 13 INFO     0.007626056671142578 /admin/jsi18n/ {}
+2021-02-18 13:08:19,436 interview.performance 13 INFO     0.01641392707824707 /admin/jobs/ {}
+2021-02-18 13:08:20,137 interview.performance 13 INFO     0.02561187744140625 /admin/ {}
+2021-02-18 16:14:11,595 interview.performance 13 INFO     0.2565460205078125 /admin/ {}
+2021-02-18 16:14:16,973 interview.performance 13 INFO     0.03849077224731445 /admin/ {}
+2021-02-18 16:14:23,429 interview.performance 13 INFO     0.0008320808410644531 /sentry-debug {}
+2021-02-18 16:14:23,504 interview.performance 13 INFO     0.06683897972106934 /sentry-debug/ {}
+2021-02-18 16:16:18,740 interview.performance 13 INFO     0.028603076934814453 /admin/ {}
+2021-02-18 16:16:20,713 interview.performance 13 INFO     0.2538628578186035 /admin/interview/candidate/ {}
+2021-02-18 16:16:20,802 interview.performance 13 INFO     0.0123291015625 /admin/jsi18n/ {}
+2021-02-18 16:16:40,356 interview.performance 13 INFO     0.01781463623046875 /admin/interview/candidate/ {}
+2021-02-18 16:18:48,897 interview.performance 13 INFO     0.0370638370513916 /admin/interview/candidate/ {}
+2021-02-18 16:38:25,689 interview.performance 33 INFO     duration:0.046526193618774414 url:/resume/1 parameters:{}
+2021-02-18 16:38:29,921 interview.performance 33 INFO     duration:0.49535107612609863 url:/admin/interview/candidate/5/change/ parameters:{}
+2021-02-18 16:38:30,021 interview.performance 33 INFO     duration:0.013223886489868164 url:/admin/jsi18n/ parameters:{}
+2021-02-18 16:38:56,819 interview.performance 33 INFO     duration:0.24826765060424805 url:/admin/interview/candidate/ parameters:{}
+2021-02-18 16:38:56,881 interview.performance 33 INFO     duration:0.009373903274536133 url:/admin/jsi18n/ parameters:{}
+2021-02-18 16:38:58,856 interview.performance 33 INFO     duration:0.016010046005249023 url:/resume/1 parameters:{}
+2021-02-18 16:39:01,870 interview.performance 45 WARNING  url:http://127.0.0.1:8000/resume/9 ** msg:Http404('没有找到符合查询的 简历'), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/generic/detail.py", line 52, in get_object
+    obj = queryset.get()
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/query.py", line 429, in get
+    raise self.model.DoesNotExist(
+jobs.models.Resume.DoesNotExist: Resume matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/generic/detail.py", line 106, in get
+    self.object = self.get_object()
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/generic/detail.py", line 54, in get_object
+    raise Http404(_("No %(verbose_name)s found matching the query") %
+django.http.response.Http404: 没有找到符合查询的 简历
+
+2021-02-18 16:39:02,239 interview.performance 33 INFO     duration:0.37955689430236816 url:/resume/9 parameters:{}
+2021-02-18 18:15:52,307 interview.performance 45 WARNING  url:http://127.0.0.1:8000/resume/9 ** msg:Http404('没有找到符合查询的 简历'), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/generic/detail.py", line 52, in get_object
+    obj = queryset.get()
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/query.py", line 429, in get
+    raise self.model.DoesNotExist(
+jobs.models.Resume.DoesNotExist: Resume matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/generic/detail.py", line 106, in get
+    self.object = self.get_object()
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/generic/detail.py", line 54, in get_object
+    raise Http404(_("No %(verbose_name)s found matching the query") %
+django.http.response.Http404: 没有找到符合查询的 简历
+
+2021-02-18 18:15:52,878 interview.performance 33 INFO     duration:0.5967180728912354 url:/resume/9 parameters:{}
+2021-02-18 18:15:59,065 interview.performance 33 INFO     duration:0.06418085098266602 url:/admin/ parameters:{}
+2021-02-18 18:16:00,173 interview.performance 33 INFO     duration:0.024526119232177734 url:/admin/ parameters:{}
+2021-02-18 18:16:02,032 interview.performance 33 INFO     duration:0.05630803108215332 url:/admin/jobs/resume/ parameters:{}
+2021-02-18 18:16:02,163 interview.performance 33 INFO     duration:0.010985851287841797 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:16:04,644 interview.performance 33 INFO     duration:0.06167411804199219 url:/admin/jobs/resume/1/change/ parameters:{}
+2021-02-18 18:16:04,728 interview.performance 33 INFO     duration:0.006563901901245117 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:16:19,480 interview.performance 33 INFO     duration:0.009089231491088867 url:/resume/1 parameters:{}
+2021-02-18 18:16:43,620 interview.performance 33 INFO     duration:0.0007340908050537109 url:/detail_resume/1 parameters:{}
+2021-02-18 18:16:43,632 interview.performance 33 INFO     duration:0.0027587413787841797 url:/detail_resume/1/ parameters:{}
+2021-02-18 18:18:56,525 interview.performance 33 INFO     duration:0.015425920486450195 url:/ parameters:{}
+2021-02-18 18:18:59,813 interview.performance 33 INFO     duration:0.016742229461669922 url:/accounts/logout/ parameters:{}
+2021-02-18 18:19:04,919 interview.performance 33 INFO     duration:0.01649308204650879 url:/accounts/login/ parameters:{}
+2021-02-18 18:19:12,132 interview.performance 33 INFO     duration:0.024335861206054688 url:/accounts/register/ parameters:{}
+2021-02-18 18:20:08,451 interview.performance 33 INFO     duration:0.3037760257720947 url:/accounts/register/ parameters:{}
+2021-02-18 18:20:08,475 interview.performance 33 INFO     duration:0.016695737838745117 url:/accounts/login/ parameters:{}
+2021-02-18 18:20:08,984 interview.performance 33 INFO     duration:0.0036187171936035156 url:/favicon.ico parameters:{}
+2021-02-18 18:20:16,344 interview.performance 33 INFO     duration:0.09033894538879395 url:/accounts/login/ parameters:{}
+2021-02-18 18:20:21,450 interview.performance 33 INFO     duration:0.08652806282043457 url:/accounts/login/ parameters:{}
+2021-02-18 18:20:27,304 interview.performance 33 INFO     duration:0.0826108455657959 url:/accounts/login/ parameters:{}
+2021-02-18 18:20:36,936 interview.performance 33 INFO     duration:0.08312106132507324 url:/accounts/login/ parameters:{}
+2021-02-18 18:20:38,988 interview.performance 33 INFO     duration:0.004369258880615234 url:/accounts/register/ parameters:{}
+2021-02-18 18:20:39,005 interview.performance 33 INFO     duration:0.010502099990844727 url:/ parameters:{}
+2021-02-18 18:20:50,515 interview.performance 33 INFO     duration:0.011226177215576172 url:/job/1/ parameters:{}
+2021-02-18 18:20:52,297 interview.performance 33 INFO     duration:0.22133922576904297 url:/resume/add/ parameters:{'apply_position': '音视频工程师', 'city': '上海'}
+2021-02-18 18:21:26,162 interview.performance 33 INFO     duration:0.013833999633789062 url:/resume/add/ parameters:{'apply_position': '音视频工程师', 'city': '上海'}
+2021-02-18 18:21:26,187 interview.performance 33 INFO     duration:0.015796899795532227 url:/joblist/ parameters:{}
+2021-02-18 18:21:35,820 interview.performance 33 INFO     duration:0.012727975845336914 url:/admin/interview/candidate/ parameters:{}
+2021-02-18 18:21:35,891 interview.performance 33 INFO     duration:0.04969620704650879 url:/admin/login/ parameters:{'next': '/admin/interview/candidate/'}
+2021-02-18 18:21:42,043 interview.performance 33 INFO     duration:0.07954573631286621 url:/admin/login/ parameters:{'next': '/admin/interview/candidate/'}
+2021-02-18 18:21:42,214 interview.performance 33 INFO     duration:0.1623678207397461 url:/admin/interview/candidate/ parameters:{}
+2021-02-18 18:21:42,275 interview.performance 33 INFO     duration:0.010476112365722656 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:21:42,717 interview.performance 33 INFO     duration:0.005175113677978516 url:/favicon.ico parameters:{}
+2021-02-18 18:21:45,404 interview.performance 33 INFO     duration:0.02845311164855957 url:/admin/ parameters:{}
+2021-02-18 18:21:47,446 interview.performance 33 INFO     duration:0.03816509246826172 url:/admin/jobs/resume/ parameters:{}
+2021-02-18 18:21:47,492 interview.performance 33 INFO     duration:0.00676417350769043 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:22:00,385 interview.performance 33 INFO     duration:0.011897802352905273 url:/admin/jobs/resume/ parameters:{}
+2021-02-18 18:22:00,444 interview.performance 33 INFO     duration:0.05292797088623047 url:/admin/jobs/resume/ parameters:{}
+2021-02-18 18:22:00,497 interview.performance 33 INFO     duration:0.01026296615600586 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:22:03,103 interview.performance 33 INFO     duration:0.02147984504699707 url:/admin/jobs/ parameters:{}
+2021-02-18 18:22:04,826 interview.performance 33 INFO     duration:0.01924872398376465 url:/admin/ parameters:{}
+2021-02-18 18:22:06,166 interview.performance 33 INFO     duration:0.2799820899963379 url:/admin/interview/candidate/ parameters:{}
+2021-02-18 18:22:06,238 interview.performance 33 INFO     duration:0.01049494743347168 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:22:37,715 interview.performance 33 INFO     duration:0.0239260196685791 url:/admin/interview/ parameters:{}
+2021-02-18 18:22:39,888 interview.performance 33 INFO     duration:0.046653032302856445 url:/admin/ parameters:{}
+2021-02-18 18:22:41,313 interview.performance 33 INFO     duration:0.13138365745544434 url:/admin/jobs/resume/ parameters:{}
+2021-02-18 18:22:41,487 interview.performance 33 INFO     duration:0.009560108184814453 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:22:43,266 interview.performance 33 INFO     duration:0.04896903038024902 url:/admin/jobs/resume/2/change/ parameters:{}
+2021-02-18 18:22:43,304 interview.performance 33 INFO     duration:0.007903099060058594 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:22:58,918 interview.performance 33 INFO     duration:0.028802871704101562 url:/admin/ parameters:{}
+2021-02-18 18:23:00,429 interview.performance 33 INFO     duration:0.13022685050964355 url:/admin/interview/candidate/ parameters:{}
+2021-02-18 18:23:00,477 interview.performance 33 INFO     duration:0.010215044021606445 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:23:02,442 interview.performance 33 INFO     duration:0.010271072387695312 url:/resume/2 parameters:{}
+2021-02-18 18:23:45,296 interview.performance 33 INFO     duration:0.0009319782257080078 url:/detail_resume/2 parameters:{}
+2021-02-18 18:23:45,314 interview.performance 33 INFO     duration:0.0047779083251953125 url:/detail_resume/2/ parameters:{}
+2021-02-18 18:24:10,345 interview.performance 33 INFO     duration:0.012979269027709961 url:/job/2/ parameters:{}
+2021-02-18 18:24:11,562 interview.performance 33 INFO     duration:0.04269528388977051 url:/resume/add/ parameters:{'apply_position': '电商产品经理', 'city': '深圳'}
+2021-02-18 18:25:45,656 interview.performance 33 INFO     duration:0.01583695411682129 url:/resume/add/ parameters:{'apply_position': '电商产品经理', 'city': '深圳'}
+2021-02-18 18:25:45,687 interview.performance 33 INFO     duration:0.020388126373291016 url:/joblist/ parameters:{}
+2021-02-18 18:25:50,289 interview.performance 33 INFO     duration:0.16716384887695312 url:/admin/interview/candidate/ parameters:{}
+2021-02-18 18:25:50,404 interview.performance 33 INFO     duration:0.013441085815429688 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:25:55,706 interview.performance 33 INFO     duration:0.022702932357788086 url:/admin/ parameters:{}
+2021-02-18 18:25:57,263 interview.performance 33 INFO     duration:0.03859305381774902 url:/admin/jobs/resume/ parameters:{}
+2021-02-18 18:25:57,318 interview.performance 33 INFO     duration:0.010830163955688477 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:26:03,431 interview.performance 33 INFO     duration:0.01349186897277832 url:/admin/jobs/resume/ parameters:{}
+2021-02-18 18:26:03,494 interview.performance 33 INFO     duration:0.052514076232910156 url:/admin/jobs/resume/ parameters:{}
+2021-02-18 18:26:03,550 interview.performance 33 INFO     duration:0.012730836868286133 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:26:05,887 interview.performance 33 INFO     duration:0.021493911743164062 url:/admin/jobs/ parameters:{}
+2021-02-18 18:26:06,786 interview.performance 33 INFO     duration:0.048838138580322266 url:/admin/jobs/resume/ parameters:{}
+2021-02-18 18:26:06,835 interview.performance 33 INFO     duration:0.010506153106689453 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:26:08,130 interview.performance 33 INFO     duration:0.026009082794189453 url:/admin/ parameters:{}
+2021-02-18 18:26:09,325 interview.performance 33 INFO     duration:0.15309906005859375 url:/admin/interview/candidate/ parameters:{}
+2021-02-18 18:26:09,381 interview.performance 33 INFO     duration:0.009749174118041992 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:26:20,104 interview.performance 33 INFO     duration:0.02295994758605957 url:/admin/interview/ parameters:{}
+2021-02-18 18:26:21,796 interview.performance 33 INFO     duration:0.03643298149108887 url:/admin/ parameters:{}
+2021-02-18 18:26:23,420 interview.performance 33 INFO     duration:0.050637006759643555 url:/admin/jobs/resume/ parameters:{}
+2021-02-18 18:26:23,537 interview.performance 33 INFO     duration:0.011228084564208984 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:26:24,794 interview.performance 33 INFO     duration:0.08467411994934082 url:/admin/jobs/resume/3/change/ parameters:{}
+2021-02-18 18:26:24,848 interview.performance 33 INFO     duration:0.01084589958190918 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:26:27,797 interview.performance 33 INFO     duration:0.052787065505981445 url:/admin/jobs/resume/ parameters:{}
+2021-02-18 18:26:27,897 interview.performance 33 INFO     duration:0.01328897476196289 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:26:34,121 interview.performance 33 INFO     duration:0.003177165985107422 url:/detail_resume/3/ parameters:{}
+2021-02-18 18:27:16,513 interview.performance 33 INFO     duration:0.003622770309448242 url:/detail_resume/2/ parameters:{}
+2021-02-18 18:27:22,302 interview.performance 33 INFO     duration:0.004745960235595703 url:/detail_resume/3/ parameters:{}
+2021-02-18 18:29:51,964 interview.performance 33 INFO     duration:0.011446714401245117 url:/detail_resume/3/ parameters:{}
+2021-02-18 18:30:15,905 interview.performance 33 INFO     duration:0.2622511386871338 url:/admin/jobs/resume/3/change/ parameters:{}
+2021-02-18 18:30:16,116 interview.performance 33 INFO     duration:0.014071226119995117 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:30:28,638 interview.performance 33 INFO     duration:0.015072822570800781 url:/admin/jobs/resume/3/change/ parameters:{}
+2021-02-18 18:30:28,724 interview.performance 33 INFO     duration:0.07671999931335449 url:/admin/jobs/resume/ parameters:{}
+2021-02-18 18:30:28,906 interview.performance 33 INFO     duration:0.012105941772460938 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:30:31,779 interview.performance 33 INFO     duration:0.003336191177368164 url:/detail_resume/3/ parameters:{}
+2021-02-18 18:30:34,438 interview.performance 33 INFO     duration:0.003513813018798828 url:/detail_resume/3/ parameters:{}
+2021-02-18 18:30:57,463 interview.performance 33 INFO     duration:0.06229519844055176 url:/admin/jobs/resume/3/change/ parameters:{}
+2021-02-18 18:30:57,626 interview.performance 33 INFO     duration:0.016744136810302734 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:31:14,620 interview.performance 33 INFO     duration:0.016481876373291016 url:/admin/jobs/resume/3/change/ parameters:{}
+2021-02-18 18:31:14,732 interview.performance 33 INFO     duration:0.1004631519317627 url:/admin/jobs/resume/ parameters:{}
+2021-02-18 18:31:14,936 interview.performance 33 INFO     duration:0.014422178268432617 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:31:16,927 interview.performance 33 INFO     duration:0.005085945129394531 url:/detail_resume/3/ parameters:{}
+2021-02-18 18:31:22,457 interview.performance 33 INFO     duration:0.004755735397338867 url:/detail_resume/3/ parameters:{}
+2021-02-18 18:33:29,330 interview.performance 33 INFO     duration:0.09402704238891602 url:/admin/jobs/resume/3/change/ parameters:{}
+2021-02-18 18:33:29,530 interview.performance 33 INFO     duration:0.01085209846496582 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:33:33,744 interview.performance 33 INFO     duration:0.016503095626831055 url:/admin/jobs/resume/3/change/ parameters:{}
+2021-02-18 18:33:33,865 interview.performance 33 INFO     duration:0.10483670234680176 url:/admin/jobs/resume/ parameters:{}
+2021-02-18 18:33:34,032 interview.performance 33 INFO     duration:0.011960029602050781 url:/admin/jsi18n/ parameters:{}
+2021-02-18 18:33:35,976 interview.performance 33 INFO     duration:0.006119251251220703 url:/detail_resume/3/ parameters:{}
+2021-02-18 18:34:06,619 interview.performance 33 INFO     duration:0.0396571159362793 url:/admin/ parameters:{}
+2021-02-18 18:34:11,339 interview.performance 33 INFO     duration:0.0068988800048828125 url:/resume/3 parameters:{}
+2021-02-18 18:36:33,828 interview.performance 33 INFO     duration:0.008377790451049805 url:/detail_resume/3/ parameters:{}
+2021-02-18 18:54:56,328 interview.performance 33 INFO     duration:0.3046078681945801 url:/admin/ parameters:{}
+2021-02-18 18:54:56,417 interview.performance 33 INFO     duration:0.07666611671447754 url:/admin/ parameters:{}
+2021-02-18 18:55:07,460 interview.performance 33 INFO     duration:0.0009012222290039062 url:/create_hr_user parameters:{}
+2021-02-18 18:55:07,504 interview.performance 33 INFO     duration:0.027371883392333984 url:/create_hr_user/ parameters:{}
+2021-02-18 18:56:50,737 interview.performance 45 WARNING  url:http://127.0.0.1:8000/create_hr_user/ ** msg:AttributeError("module 'django.core.checks.messages' has no attribute 'add_message'"), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/PycharmProjects/recruitment/jobs/views.py", line 57, in create_hr_user
+    messages.add_message(request, messages.INFO, 'user created %s' % username)
+AttributeError: module 'django.core.checks.messages' has no attribute 'add_message'
+
+2021-02-18 18:56:51,101 interview.performance 33 INFO     duration:0.47345924377441406 url:/create_hr_user/ parameters:{}
+2021-02-18 18:56:51,961 interview.performance 33 INFO     duration:0.010029077529907227 url:/favicon.ico parameters:{}
+2021-02-18 18:57:39,868 interview.performance 45 WARNING  url:http://127.0.0.1:8000/create_hr_user/ ** msg:IntegrityError('UNIQUE constraint failed: auth_user.username'), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: UNIQUE constraint failed: auth_user.username
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/PycharmProjects/recruitment/jobs/views.py", line 55, in create_hr_user
+    user.save()
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/auth/base_user.py", line 67, in save
+    super().save(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/__init__.py", line 493, in execute
+    return real_execute(self, sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: UNIQUE constraint failed: auth_user.username
+
+2021-02-18 18:57:40,285 interview.performance 33 INFO     duration:0.5416698455810547 url:/create_hr_user/ parameters:{}
+2021-02-18 18:57:41,132 interview.performance 33 INFO     duration:0.05515289306640625 url:/favicon.ico parameters:{}
+2021-02-18 18:58:05,538 interview.performance 33 INFO     duration:0.004882097244262695 url:/favicon.ico parameters:{}
+2021-02-18 18:58:12,121 interview.performance 33 INFO     duration:0.15339899063110352 url:/create_hr_user/ parameters:{}
+2021-02-18 18:58:29,979 interview.performance 33 INFO     duration:0.07477188110351562 url:/admin/ parameters:{}
+2021-02-18 18:58:34,601 interview.performance 33 INFO     duration:0.10117292404174805 url:/admin/auth/user/ parameters:{}
+2021-02-18 18:58:34,671 interview.performance 33 INFO     duration:0.009800910949707031 url:/admin/jsi18n/ parameters:{}
+2021-02-18 22:33:21,596 interview.performance 33 INFO     duration:0.10591697692871094 url:/create_hr_user/ parameters:{}
+2021-02-18 22:33:58,345 interview.performance 33 INFO     duration:0.1314558982849121 url:/admin/auth/user/ parameters:{}
+2021-02-18 22:33:58,469 interview.performance 33 INFO     duration:0.015724897384643555 url:/admin/jsi18n/ parameters:{}
+2021-02-18 22:34:06,859 interview.performance 33 INFO     duration:0.08850979804992676 url:/admin/auth/user/9/change/ parameters:{}
+2021-02-18 22:34:06,938 interview.performance 33 INFO     duration:0.0213320255279541 url:/admin/jsi18n/ parameters:{}
+2021-02-18 22:34:11,114 interview.performance 33 INFO     duration:0.07017016410827637 url:/admin/auth/user/ parameters:{}
+2021-02-18 22:35:40,041 interview.performance 33 INFO     duration:0.17766594886779785 url:/admin/auth/user/ parameters:{}
+2021-02-18 22:35:42,468 interview.performance 33 INFO     duration:0.04005098342895508 url:/admin/auth/user/ parameters:{}
+2021-02-18 22:35:42,671 interview.performance 33 INFO     duration:0.19228577613830566 url:/admin/auth/user/ parameters:{}
+2021-02-18 22:35:42,818 interview.performance 33 INFO     duration:0.012871026992797852 url:/admin/jsi18n/ parameters:{}
+2021-02-18 22:36:01,481 interview.performance 33 INFO     duration:0.0052869319915771484 url:/create_hr_user/ parameters:{}
+2021-02-18 22:36:01,973 interview.performance 33 INFO     duration:0.022667884826660156 url:/favicon.ico parameters:{}
+2021-02-18 22:39:22,776 interview.performance 33 INFO     duration:0.02087712287902832 url:/create_hr_user/ parameters:{}
+2021-02-18 22:39:23,117 interview.performance 33 INFO     duration:0.01084589958190918 url:/create_hr_user/ parameters:{}
+2021-02-18 22:39:29,999 interview.performance 33 INFO     duration:0.09470987319946289 url:/create_hr_user/ parameters:{}
+2021-02-18 23:08:54,239 interview.performance 33 INFO     duration:0.11875605583190918 url:/admin/ parameters:{}
+2021-02-18 23:08:55,066 interview.performance 33 INFO     duration:0.0015571117401123047 url:/api parameters:{}
+2021-02-18 23:08:55,142 interview.performance 33 INFO     duration:0.06185507774353027 url:/api/ parameters:{}
+2021-02-18 23:09:01,460 interview.performance 45 WARNING  url:http://127.0.0.1:8000/api/users/ ** msg:AssertionError("'UserViewSet' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method."), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/mixins.py", line 45, in list
+    serializer = self.get_serializer(queryset, many=True)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+AssertionError: 'UserViewSet' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+
+2021-02-18 23:09:02,503 interview.performance 45 WARNING  url:http://127.0.0.1:8000/api/users/ ** msg:AssertionError("'UserViewSet' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method."), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/mixins.py", line 45, in list
+    serializer = self.get_serializer(queryset, many=True)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+AssertionError: 'UserViewSet' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+
+2021-02-18 23:09:03,484 interview.performance 45 WARNING  url:http://127.0.0.1:8000/api/jobs/ ** msg:AssertionError("'JobViewSet' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method."), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/mixins.py", line 45, in list
+    serializer = self.get_serializer(queryset, many=True)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+AssertionError: 'JobViewSet' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+
+2021-02-18 23:09:04,045 interview.performance 45 WARNING  url:http://127.0.0.1:8000/api/jobs/ ** msg:AssertionError("'JobViewSet' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method."), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/mixins.py", line 45, in list
+    serializer = self.get_serializer(queryset, many=True)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+AssertionError: 'JobViewSet' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+
+2021-02-18 23:09:04,225 interview.performance 45 WARNING  url:http://127.0.0.1:8000/api/jobs/ ** msg:AssertionError("'JobViewSet' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method."), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/mixins.py", line 45, in list
+    serializer = self.get_serializer(queryset, many=True)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+AssertionError: 'JobViewSet' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+
+2021-02-18 23:09:05,117 interview.performance 45 WARNING  url:http://127.0.0.1:8000/api/users/ ** msg:AssertionError("'UserViewSet' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method."), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/mixins.py", line 45, in list
+    serializer = self.get_serializer(queryset, many=True)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+AssertionError: 'UserViewSet' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+
+2021-02-18 23:09:05,368 interview.performance 33 INFO     duration:3.920653820037842 url:/api/users/ parameters:{}
+2021-02-18 23:09:05,373 interview.performance 45 WARNING  url:http://127.0.0.1:8000/api/users/ ** msg:AssertionError("'UserViewSet' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method."), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/mixins.py", line 45, in list
+    serializer = self.get_serializer(queryset, many=True)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+AssertionError: 'UserViewSet' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+
+2021-02-18 23:09:05,379 interview.performance 33 INFO     duration:1.1635019779205322 url:/api/jobs/ parameters:{}
+2021-02-18 23:09:05,389 interview.performance 33 INFO     duration:2.892817258834839 url:/api/users/ parameters:{}
+2021-02-18 23:09:05,396 interview.performance 33 INFO     duration:1.91941499710083 url:/api/jobs/ parameters:{}
+2021-02-18 23:09:05,406 interview.performance 33 INFO     duration:1.3664121627807617 url:/api/jobs/ parameters:{}
+2021-02-18 23:09:05,523 interview.performance 33 INFO     duration:0.4356238842010498 url:/api/users/ parameters:{}
+2021-02-18 23:09:05,670 interview.performance 33 INFO     duration:0.3099551200866699 url:/api/users/ parameters:{}
+2021-02-18 23:09:17,856 interview.performance 33 INFO     duration:0.019285917282104492 url:/api/ parameters:{}
+2021-02-18 23:09:24,650 interview.performance 45 WARNING  url:http://127.0.0.1:8000/api/users/ ** msg:AssertionError("'UserViewSet' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method."), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/mixins.py", line 45, in list
+    serializer = self.get_serializer(queryset, many=True)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/rest_framework/generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+AssertionError: 'UserViewSet' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+
+2021-02-18 23:09:24,945 interview.performance 33 INFO     duration:0.3033599853515625 url:/api/users/ parameters:{}
+2021-02-18 23:11:13,148 interview.performance 33 INFO     duration:0.10642623901367188 url:/api/users/ parameters:{}
+2021-02-18 23:11:21,642 interview.performance 33 INFO     duration:0.028017282485961914 url:/api/ parameters:{}
+2021-02-18 23:11:23,254 interview.performance 33 INFO     duration:0.16441011428833008 url:/api/jobs/ parameters:{}
+2021-02-18 23:12:14,277 interview.performance 33 INFO     duration:0.00713801383972168 url:/api/jobs/1/ parameters:{}
+2021-02-18 23:13:46,861 interview.performance 33 INFO     duration:0.012465238571166992 url:/api/jobs/ parameters:{'format': 'json'}
+2021-02-18 23:14:15,192 interview.performance 33 INFO     duration:0.023625850677490234 url:/api/ parameters:{}
+2021-02-18 23:14:19,331 interview.performance 33 INFO     duration:0.011981010437011719 url:/api-auth/logout/ parameters:{'next': '/api/'}
+2021-02-18 23:14:19,370 interview.performance 33 INFO     duration:0.0247800350189209 url:/api/ parameters:{}
+2021-02-18 23:14:21,805 interview.performance 33 INFO     duration:0.010960817337036133 url:/api-auth/login/ parameters:{'next': '/api/'}
+2021-02-18 23:14:27,983 interview.performance 33 INFO     duration:0.21046710014343262 url:/api-auth/login/ parameters:{}
+2021-02-18 23:14:28,011 interview.performance 33 INFO     duration:0.018857955932617188 url:/api/ parameters:{}
+2021-02-18 23:14:28,711 interview.performance 33 INFO     duration:0.029707670211791992 url:/favicon.ico parameters:{}
+2021-02-18 23:15:15,479 interview.performance 33 INFO     duration:0.05754685401916504 url:/api/users/ parameters:{}
+2021-02-18 23:24:26,599 interview.performance 33 INFO     duration:0.4919600486755371 url:/admin/auth/user/ parameters:{}
+2021-02-18 23:24:26,822 interview.performance 33 INFO     duration:0.01997685432434082 url:/admin/jsi18n/ parameters:{}
+2021-02-18 23:24:28,617 interview.performance 33 INFO     duration:0.09086990356445312 url:/admin/auth/user/ parameters:{}
+2021-02-18 23:24:28,693 interview.performance 33 INFO     duration:0.008374929428100586 url:/admin/jsi18n/ parameters:{}
+2021-02-18 23:24:48,213 interview.performance 33 INFO     duration:0.021392822265625 url:/admin/ parameters:{}
+2021-02-18 23:24:50,063 interview.performance 33 INFO     duration:0.30392909049987793 url:/admin/interview/candidate/ parameters:{}
+2021-02-18 23:24:50,270 interview.performance 33 INFO     duration:0.010170936584472656 url:/admin/jsi18n/ parameters:{}
+2021-02-18 23:24:55,018 interview.performance 33 INFO     duration:0.010560035705566406 url:/resume/2 parameters:{}
+2021-02-18 23:25:15,609 interview.performance 33 INFO     duration:0.013374090194702148 url:/resume/2 parameters:{}
+2021-02-18 23:27:45,720 interview.performance 33 INFO     duration:0.0973062515258789 url:/resume/2 parameters:{}
+2021-02-18 23:32:02,732 interview.performance 33 INFO     duration:0.11938095092773438 url:/ parameters:{}
+2021-02-18 23:32:04,302 interview.performance 33 INFO     duration:0.01660013198852539 url:/job/1/ parameters:{}
+2021-02-18 23:32:14,380 interview.performance 33 INFO     duration:0.002955913543701172 url:/job/1/ parameters:{}
+2021-02-18 23:32:31,051 interview.performance 33 INFO     duration:0.0024535655975341797 url:/ parameters:{}
+2021-02-18 23:32:40,858 interview.performance 33 INFO     duration:0.0016679763793945312 url:/ parameters:{}
+2021-02-18 23:32:43,381 interview.performance 33 INFO     duration:0.23404908180236816 url:/admin/interview/candidate/ parameters:{}
+2021-02-18 23:33:23,265 interview.performance 33 INFO     duration:0.002113819122314453 url:/ parameters:{}
+2021-02-18 23:33:27,136 interview.performance 33 INFO     duration:0.031954050064086914 url:/admin/ parameters:{}
+2021-02-18 23:33:27,985 interview.performance 33 INFO     duration:0.03370213508605957 url:/admin/ parameters:{}
+2021-02-18 23:36:03,566 interview.performance 33 INFO     duration:0.013207674026489258 url:/ parameters:{}
+2021-02-18 23:36:35,068 interview.performance 33 INFO     duration:0.06259012222290039 url:/ parameters:{}
+2021-02-18 23:37:21,981 interview.performance 33 INFO     duration:0.0011501312255859375 url:/ parameters:{}
+2021-02-18 23:37:44,205 interview.performance 33 INFO     duration:0.04929804801940918 url:/ parameters:{}
+2021-02-18 23:37:53,924 interview.performance 33 INFO     duration:0.02632308006286621 url:/favicon.ico parameters:{}
+2021-02-18 23:37:59,457 interview.performance 33 INFO     duration:0.0014362335205078125 url:/ parameters:{}
+2021-02-18 23:38:08,519 interview.performance 33 INFO     duration:0.014173030853271484 url:/job/1/ parameters:{}
+2021-02-18 23:38:24,290 interview.performance 33 INFO     duration:0.01743006706237793 url:/job/2/ parameters:{}
+2021-02-18 23:38:26,259 interview.performance 33 INFO     duration:0.2979278564453125 url:/resume/add/ parameters:{'apply_position': '电商产品经理', 'city': '深圳'}
+2021-02-19 16:34:31,306 interview.performance 33 INFO     duration:0.2744791507720947 url:/ parameters:{}
+2021-02-19 16:34:45,140 interview.performance 33 INFO     duration:0.08016419410705566 url:/api/users/ parameters:{}
+2021-02-19 16:34:50,918 interview.performance 33 INFO     duration:0.056134939193725586 url:/admin/ parameters:{}
+2021-02-19 16:34:52,027 interview.performance 33 INFO     duration:0.026378870010375977 url:/admin/ parameters:{}
+2021-02-19 16:34:55,260 interview.performance 33 INFO     duration:0.18961596488952637 url:/admin/interview/candidate/ parameters:{}
+2021-02-19 16:34:55,388 interview.performance 33 INFO     duration:0.02030205726623535 url:/admin/jsi18n/ parameters:{}
+2021-02-19 16:35:12,492 interview.performance 45 WARNING  url:http://127.0.0.1:8000/admin/interview/candidate/ ** msg:AttributeError("'NoneType' object has no attribute 'username'"), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 614, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1719, in changelist_view
+    response = self.response_action(request, queryset=cl.get_queryset(request))
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1402, in response_action
+    response = func(self, request, queryset)
+  File "/Users/xing_zhi/PycharmProjects/recruitment/interview/admin.py", line 28, in notify_interviewer
+    interviewer = obj.first_interviewer_user.username + ";" + interviewer
+AttributeError: 'NoneType' object has no attribute 'username'
+
+2021-02-19 16:35:12,886 interview.performance 33 INFO     duration:0.42133092880249023 url:/admin/interview/candidate/ parameters:{}
+2021-02-19 16:38:34,655 interview.performance 33 INFO     duration:0.1460111141204834 url:/admin/interview/candidate/ parameters:{}
+2021-02-19 16:38:49,633 interview.performance 33 INFO     duration:0.2804422378540039 url:/admin/interview/candidate/ parameters:{}
+2021-02-19 16:38:50,071 interview.performance 33 INFO     duration:0.4178028106689453 url:/admin/interview/candidate/ parameters:{}
+2021-02-19 17:02:51,130 interview.performance 33 INFO     duration:0.11313676834106445 url:/admin/ parameters:{}
+2021-02-19 17:03:04,819 interview.performance 33 INFO     duration:0.056715965270996094 url:/admin/django_celery_beat/intervalschedule/ parameters:{}
+2021-02-19 17:03:04,899 interview.performance 33 INFO     duration:0.01442718505859375 url:/admin/jsi18n/ parameters:{}
+2021-02-19 17:03:08,068 interview.performance 33 INFO     duration:0.0207059383392334 url:/admin/django_celery_beat/ parameters:{}
+2021-02-19 17:03:12,872 interview.performance 33 INFO     duration:0.03145313262939453 url:/admin/django_celery_beat/clockedschedule/ parameters:{}
+2021-02-19 17:03:14,273 interview.performance 33 INFO     duration:0.02499103546142578 url:/admin/django_celery_beat/ parameters:{}
+2021-02-19 17:03:15,772 interview.performance 33 INFO     duration:0.04085278511047363 url:/admin/django_celery_beat/solarschedule/ parameters:{}
+2021-02-19 17:03:16,844 interview.performance 33 INFO     duration:0.026361703872680664 url:/admin/django_celery_beat/ parameters:{}
+2021-02-19 17:03:17,559 interview.performance 33 INFO     duration:0.0269010066986084 url:/admin/ parameters:{}
+2021-02-19 17:03:20,969 interview.performance 33 INFO     duration:0.0632631778717041 url:/admin/django_celery_beat/crontabschedule/ parameters:{}
+2021-02-19 17:03:25,387 interview.performance 33 INFO     duration:0.02798318862915039 url:/admin/django_celery_beat/ parameters:{}
+2021-02-19 17:03:30,310 interview.performance 33 INFO     duration:0.05453896522521973 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2021-02-19 17:03:31,931 interview.performance 33 INFO     duration:0.029941082000732422 url:/admin/django_celery_beat/ parameters:{}
+2021-02-19 17:03:33,031 interview.performance 33 INFO     duration:0.04076218605041504 url:/admin/django_celery_beat/solarschedule/ parameters:{}
+2021-02-19 17:03:34,091 interview.performance 33 INFO     duration:0.019034862518310547 url:/admin/django_celery_beat/ parameters:{}
+2021-02-19 17:03:39,795 interview.performance 33 INFO     duration:0.02954864501953125 url:/admin/ parameters:{}
+2021-02-19 17:04:10,495 interview.performance 33 INFO     duration:0.09482479095458984 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2021-02-19 17:04:12,612 interview.performance 33 INFO     duration:0.2087111473083496 url:/admin/django_celery_beat/periodictask/add/ parameters:{}
+2021-02-19 17:04:20,426 interview.performance 33 INFO     duration:0.03412890434265137 url:/admin/ parameters:{}
+2021-02-19 17:14:49,416 interview.performance 33 INFO     duration:0.1968381404876709 url:/admin/ parameters:{}
+2021-02-19 17:15:09,173 interview.performance 33 INFO     duration:0.09352588653564453 url:/admin/django_celery_beat/clockedschedule/ parameters:{}
+2021-02-19 17:15:09,413 interview.performance 33 INFO     duration:0.026723146438598633 url:/admin/jsi18n/ parameters:{}
+2021-02-19 17:15:11,243 interview.performance 33 INFO     duration:0.04509091377258301 url:/admin/ parameters:{}
+2021-02-19 17:15:13,268 interview.performance 33 INFO     duration:0.07182884216308594 url:/admin/django_celery_beat/crontabschedule/ parameters:{}
+2021-02-19 17:15:16,065 interview.performance 33 INFO     duration:0.06365394592285156 url:/admin/django_celery_beat/ parameters:{}
+2021-02-19 17:15:17,553 interview.performance 33 INFO     duration:0.0644230842590332 url:/admin/django_celery_beat/intervalschedule/ parameters:{}
+2021-02-19 17:15:18,790 interview.performance 33 INFO     duration:0.03765416145324707 url:/admin/django_celery_beat/ parameters:{}
+2021-02-19 17:15:19,852 interview.performance 33 INFO     duration:0.08932089805603027 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2021-02-19 17:15:21,870 interview.performance 33 INFO     duration:0.03728222846984863 url:/admin/django_celery_beat/ parameters:{}
+2021-02-19 17:15:23,170 interview.performance 33 INFO     duration:0.05816912651062012 url:/admin/django_celery_beat/solarschedule/ parameters:{}
+2021-02-19 18:53:34,896 interview.performance 33 INFO     duration:0.07829928398132324 url:/admin/django_celery_beat/solarschedule/ parameters:{}
+2021-02-19 18:53:34,964 interview.performance 33 INFO     duration:0.010952949523925781 url:/admin/jsi18n/ parameters:{}
+2021-02-19 18:53:38,038 interview.performance 33 INFO     duration:0.032266855239868164 url:/admin/django_celery_beat/ parameters:{}
+2021-02-19 18:53:40,473 interview.performance 33 INFO     duration:0.0444340705871582 url:/admin/ parameters:{}
+2021-02-23 19:07:32,581 interview.performance 33 INFO     duration:0.09346413612365723 url:/admin/ parameters:{}
+2021-02-23 19:07:33,161 interview.performance 33 INFO     duration:0.05858612060546875 url:/favicon.ico parameters:{}
+2021-02-23 19:07:43,382 interview.performance 33 INFO     duration:0.05815887451171875 url:/admin/registration/registrationprofile/ parameters:{}
+2021-02-23 19:07:43,605 interview.performance 33 INFO     duration:0.024778127670288086 url:/admin/jsi18n/ parameters:{}
+2021-02-23 19:07:45,930 interview.performance 33 INFO     duration:0.23166632652282715 url:/admin/registration/ parameters:{}
+2021-02-23 19:07:46,771 interview.performance 33 INFO     duration:0.03794288635253906 url:/admin/ parameters:{}
+2021-02-23 19:11:14,555 interview.performance 33 INFO     duration:0.07176804542541504 url:/admin/django_celery_beat/intervalschedule/ parameters:{}
+2021-02-23 19:11:16,575 interview.performance 33 INFO     duration:0.08388876914978027 url:/admin/django_celery_beat/intervalschedule/add/ parameters:{}
+2021-02-23 19:11:20,963 interview.performance 33 INFO     duration:0.06995892524719238 url:/admin/django_celery_beat/intervalschedule/ parameters:{}
+2021-02-23 19:11:21,778 interview.performance 33 INFO     duration:0.039881229400634766 url:/admin/django_celery_beat/ parameters:{}
+2021-02-23 19:11:26,279 interview.performance 33 INFO     duration:0.08605194091796875 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2021-02-23 19:11:31,517 interview.performance 33 INFO     duration:0.03552889823913574 url:/admin/django_celery_beat/ parameters:{}
+2021-02-23 19:30:02,753 interview.performance 33 INFO     duration:0.20501494407653809 url:/api/users/ parameters:{}
+2021-02-23 19:30:19,856 interview.performance 33 INFO     duration:0.08865690231323242 url:/admin/ parameters:{}
+2021-02-23 19:30:59,484 interview.performance 33 INFO     duration:0.29930877685546875 url:/admin/interview/candidate/ parameters:{}
+2021-02-23 19:30:59,578 interview.performance 33 INFO     duration:0.01656198501586914 url:/admin/jsi18n/ parameters:{}
+2021-02-23 19:31:07,305 interview.performance 45 WARNING  url:http://127.0.0.1:8000/admin/interview/candidate/ ** msg:AttributeError("'NoneType' object has no attribute 'username'"), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 614, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1719, in changelist_view
+    response = self.response_action(request, queryset=cl.get_queryset(request))
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1402, in response_action
+    response = func(self, request, queryset)
+  File "/Users/xing_zhi/PycharmProjects/recruitment/interview/admin.py", line 28, in notify_interviewer
+    interviewer = obj.first_interviewer_user.username + ";" + interviewer
+AttributeError: 'NoneType' object has no attribute 'username'
+
+2021-02-23 19:31:07,669 interview.performance 33 INFO     duration:0.40289998054504395 url:/admin/interview/candidate/ parameters:{}
+2021-02-23 19:31:16,936 interview.performance 33 INFO     duration:0.2521352767944336 url:/admin/interview/candidate/ parameters:{}
+2021-02-23 19:31:24,360 interview.performance 33 INFO     duration:0.22694110870361328 url:/admin/interview/candidate/ parameters:{}
+2021-02-23 19:31:24,677 interview.performance 33 INFO     duration:0.2775909900665283 url:/admin/interview/candidate/ parameters:{}
+2021-02-23 19:32:49,073 interview.performance 33 INFO     duration:0.036087989807128906 url:/admin/ parameters:{}
+2021-02-23 19:32:51,222 interview.performance 33 INFO     duration:0.059545040130615234 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2021-02-23 19:33:20,956 interview.performance 33 INFO     duration:0.22995400428771973 url:/admin/django_celery_beat/periodictask/2/change/ parameters:{}
+2021-02-23 19:33:23,138 interview.performance 33 INFO     duration:0.0582888126373291 url:/admin/django_celery_beat/periodictask/ parameters:{}
+2021-02-23 19:48:59,532 interview.performance 33 INFO     duration:0.8049230575561523 url:/resume/add/ parameters:{'apply_position': '电商产品经理', 'city': '深圳'}
+2021-02-23 19:49:04,710 interview.performance 33 INFO     duration:0.056893348693847656 url:/resume/add/ parameters:{}
+2021-02-23 19:50:26,611 interview.performance 33 INFO     duration:0.16716408729553223 url:/admin/ parameters:{}
+2021-02-23 19:50:28,427 interview.performance 45 WARNING  url:http://127.0.0.1:8000/admin/jobs/resume/ ** msg:OperationalError('no such column: jobs_resume.picture'), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such column: jobs_resume.picture
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 614, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1811, in changelist_view
+    'selection_note': _('0 of %(cnt)s selected') % {'cnt': len(cl.result_list)},
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/query.py", line 269, in __len__
+    self._fetch_all()
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/query.py", line 1308, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1156, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/__init__.py", line 493, in execute
+    return real_execute(self, sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such column: jobs_resume.picture
+
+2021-02-23 19:50:28,971 interview.performance 33 INFO     duration:0.5822527408599854 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 19:52:13,544 interview.performance 33 INFO     duration:0.22192716598510742 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 19:52:13,637 interview.performance 33 INFO     duration:0.01444697380065918 url:/admin/jsi18n/ parameters:{}
+2021-02-23 19:52:16,365 interview.performance 33 INFO     duration:0.11085319519042969 url:/admin/jobs/resume/add/ parameters:{}
+2021-02-23 19:52:30,357 interview.performance 33 INFO     duration:0.08045077323913574 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 19:52:32,185 interview.performance 33 INFO     duration:0.10040497779846191 url:/admin/jobs/resume/3/change/ parameters:{}
+2021-02-23 19:52:51,464 interview.performance 33 INFO     duration:0.041802167892456055 url:/admin/jobs/resume/3/history/ parameters:{}
+2021-02-23 19:52:54,612 interview.performance 33 INFO     duration:0.08947300910949707 url:/admin/jobs/resume/3/change/ parameters:{}
+2021-02-23 19:54:21,655 interview.performance 33 INFO     duration:0.026407957077026367 url:/admin/jobs/ parameters:{}
+2021-02-23 19:54:25,127 interview.performance 33 INFO     duration:0.0372929573059082 url:/admin/ parameters:{}
+2021-02-23 19:54:29,403 interview.performance 33 INFO     duration:0.04597282409667969 url:/admin/jobs/job/ parameters:{}
+2021-02-23 19:54:31,001 interview.performance 33 INFO     duration:0.03986001014709473 url:/admin/jobs/job/2/change/ parameters:{}
+2021-02-23 19:54:33,345 interview.performance 33 INFO     duration:0.14376187324523926 url:/admin/jobs/job/ parameters:{}
+2021-02-23 19:54:34,547 interview.performance 33 INFO     duration:0.023175954818725586 url:/admin/jobs/ parameters:{}
+2021-02-23 19:54:36,019 interview.performance 33 INFO     duration:0.029561996459960938 url:/admin/ parameters:{}
+2021-02-23 19:54:37,974 interview.performance 33 INFO     duration:0.20841193199157715 url:/admin/interview/candidate/ parameters:{}
+2021-02-23 19:54:39,720 interview.performance 33 INFO     duration:0.21590805053710938 url:/admin/interview/candidate/5/change/ parameters:{}
+2021-02-23 19:54:49,808 interview.performance 33 INFO     duration:0.04563307762145996 url:/admin/ parameters:{}
+2021-02-23 19:54:56,517 interview.performance 33 INFO     duration:0.06552386283874512 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 19:54:58,272 interview.performance 33 INFO     duration:0.07871484756469727 url:/admin/jobs/resume/3/change/ parameters:{}
+2021-02-23 19:57:51,165 interview.performance 33 INFO     duration:0.1958787441253662 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 19:57:52,771 interview.performance 33 INFO     duration:0.1322782039642334 url:/admin/jobs/resume/add/ parameters:{}
+2021-02-23 19:58:02,768 interview.performance 33 INFO     duration:0.02277398109436035 url:/ parameters:{}
+2021-02-23 19:58:09,619 interview.performance 33 INFO     duration:0.09172582626342773 url:/admin/jobs/resume/add/ parameters:{}
+2021-02-23 19:58:19,631 interview.performance 33 INFO     duration:0.07227706909179688 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 20:04:19,723 interview.performance 33 INFO     duration:0.10479211807250977 url:/admin/jobs/resume/add/ parameters:{}
+2021-02-23 20:04:19,927 interview.performance 33 INFO     duration:0.021695852279663086 url:/admin/jsi18n/ parameters:{}
+2021-02-23 20:08:47,186 interview.performance 33 INFO     duration:0.26422691345214844 url:/admin/jobs/resume/add/ parameters:{}
+2021-02-23 20:08:49,291 interview.performance 33 INFO     duration:0.09569597244262695 url:/admin/jobs/resume/add/ parameters:{}
+2021-02-23 20:08:50,630 interview.performance 33 INFO     duration:0.0939178466796875 url:/admin/jobs/resume/add/ parameters:{}
+2021-02-23 20:08:53,710 interview.performance 33 INFO     duration:0.09974193572998047 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 20:08:55,791 interview.performance 33 INFO     duration:0.09581303596496582 url:/admin/jobs/resume/add/ parameters:{}
+2021-02-23 20:09:00,519 interview.performance 33 INFO     duration:0.08402204513549805 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 20:09:02,413 interview.performance 33 INFO     duration:0.05217266082763672 url:/admin/jobs/resume/1/change/ parameters:{}
+2021-02-23 20:09:05,284 interview.performance 33 INFO     duration:0.04981207847595215 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 20:11:35,293 interview.performance 33 INFO     duration:0.20255494117736816 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 20:11:36,447 interview.performance 33 INFO     duration:0.06885504722595215 url:/admin/jobs/resume/3/change/ parameters:{}
+2021-02-23 20:12:29,212 interview.performance 33 INFO     duration:0.13031291961669922 url:/admin/jobs/ parameters:{}
+2021-02-23 20:12:32,097 interview.performance 33 INFO     duration:0.09547686576843262 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 20:12:33,709 interview.performance 33 INFO     duration:0.11200213432312012 url:/admin/jobs/resume/add/ parameters:{}
+2021-02-23 20:14:49,255 interview.performance 33 INFO     duration:0.16762495040893555 url:/admin/jobs/resume/add/ parameters:{}
+2021-02-23 20:14:49,505 interview.performance 33 INFO     duration:0.11816787719726562 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 20:14:49,570 interview.performance 33 INFO     duration:0.014835834503173828 url:/admin/jsi18n/ parameters:{}
+2021-02-23 20:14:53,471 interview.performance 33 INFO     duration:0.09508609771728516 url:/admin/jobs/resume/4/change/ parameters:{}
+2021-02-23 20:15:16,667 interview.performance 33 INFO     duration:0.03692913055419922 url:/admin/jobs/ parameters:{}
+2021-02-23 20:15:18,775 interview.performance 33 INFO     duration:0.1593799591064453 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 20:15:56,368 interview.performance 33 INFO     duration:0.2660970687866211 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 20:16:06,825 interview.performance 33 INFO     duration:0.05223703384399414 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 20:26:08,247 interview.performance 33 INFO     duration:0.19640111923217773 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 20:26:08,404 interview.performance 33 INFO     duration:0.03474903106689453 url:/admin/jsi18n/ parameters:{}
+2021-02-23 20:26:08,514 interview.performance 33 INFO     duration:0.004522085189819336 url:/media/images/CF249672-2AC6-44AE-910A-4BEA5062F189.jpeg parameters:{}
+2021-02-23 20:26:19,294 interview.performance 33 INFO     duration:0.12880587577819824 url:/admin/jobs/resume/4/change/ parameters:{}
+2021-02-23 20:26:28,787 interview.performance 33 INFO     duration:0.10123229026794434 url:/api/users/ parameters:{}
+2021-02-23 20:26:45,570 interview.performance 33 INFO     duration:0.04744219779968262 url:/admin/ parameters:{}
+2021-02-23 20:26:47,004 interview.performance 33 INFO     duration:0.04784989356994629 url:/admin/ parameters:{}
+2021-02-23 20:26:49,764 interview.performance 33 INFO     duration:0.2473154067993164 url:/admin/interview/candidate/ parameters:{}
+2021-02-23 20:26:52,261 interview.performance 33 INFO     duration:0.03975391387939453 url:/admin/interview/ parameters:{}
+2021-02-23 20:26:54,020 interview.performance 33 INFO     duration:0.037698984146118164 url:/admin/ parameters:{}
+2021-02-23 20:26:55,232 interview.performance 33 INFO     duration:0.17882490158081055 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 20:26:58,011 interview.performance 33 INFO     duration:0.06416487693786621 url:/admin/jobs/resume/4/change/ parameters:{}
+2021-02-23 20:27:02,359 interview.performance 33 INFO     duration:0.003975868225097656 url:/media/file/今天你敲的有多快.docx parameters:{}
+2021-02-23 20:27:05,481 interview.performance 33 INFO     duration:0.06869721412658691 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 20:27:13,851 interview.performance 33 INFO     duration:0.04253196716308594 url:/admin/ parameters:{}
+2021-02-23 20:29:12,111 interview.performance 33 INFO     duration:0.05256915092468262 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 20:29:12,372 interview.performance 33 INFO     duration:0.0029931068420410156 url:/media/images/CF249672-2AC6-44AE-910A-4BEA5062F189.jpeg parameters:{}
+2021-02-23 21:10:12,807 interview.performance 33 INFO     duration:5.699378967285156 url:/admin/jobs/resume/4/change/ parameters:{}
+2021-02-23 21:10:12,932 interview.performance 33 INFO     duration:0.01712512969970703 url:/admin/jsi18n/ parameters:{}
+2021-02-23 21:12:00,217 interview.performance 33 INFO     duration:0.9873180389404297 url:/admin/jobs/resume/4/change/ parameters:{}
+2021-02-23 21:12:00,316 interview.performance 33 INFO     duration:0.08683395385742188 url:/admin/jobs/resume/ parameters:{}
+2021-02-23 21:12:05,096 interview.performance 33 INFO     duration:0.11836886405944824 url:/admin/jobs/resume/4/change/ parameters:{}
+2021-02-23 21:55:36,487 interview.performance 33 INFO     duration:1.7166860103607178 url:/admin/jobs/resume/4/change/ parameters:{}
+2021-02-23 21:55:36,672 interview.performance 33 INFO     duration:0.012871980667114258 url:/admin/jsi18n/ parameters:{}
+2021-02-23 21:55:38,369 interview.performance 33 INFO     duration:0.07433819770812988 url:/admin/ parameters:{}
+2021-02-23 21:55:41,470 interview.performance 33 INFO     duration:0.047266244888305664 url:/admin/ parameters:{}
+2021-02-23 21:55:44,588 interview.performance 45 WARNING  url:http://127.0.0.1:8000/admin/running/heros/ ** msg:OperationalError('no such table: heros'), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: heros
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 614, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1693, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 735, in get_changelist_instance
+    return ChangeList(
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/views/main.py", line 100, in __init__
+    self.get_results(request)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/views/main.py", line 235, in get_results
+    result_count = paginator.count
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/paginator.py", line 94, in count
+    return c()
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/query.py", line 411, in count
+    return self.query.get_count(using=self.db)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/sql/query.py", line 515, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/sql/query.py", line 500, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1156, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/__init__.py", line 493, in execute
+    return real_execute(self, sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: heros
+
+2021-02-23 21:55:45,680 interview.performance 33 INFO     duration:1.1183931827545166 url:/admin/running/heros/ parameters:{}
+2021-02-23 21:55:48,958 interview.performance 33 INFO     duration:0.02682805061340332 url:/admin/ parameters:{}
+2021-02-23 22:04:48,599 interview.performance 33 INFO     duration:0.25356268882751465 url:/admin/ parameters:{}
+2021-02-23 22:04:53,784 interview.performance 33 INFO     duration:0.47261500358581543 url:/admin/running/heros/ parameters:{}
+2021-02-23 22:05:03,376 interview.performance 33 INFO     duration:0.16491103172302246 url:/admin/running/heros/10040/change/ parameters:{}
+2021-02-23 22:05:07,686 interview.performance 33 INFO     duration:0.043189048767089844 url:/admin/running/ parameters:{}
+2021-02-23 22:05:10,059 interview.performance 33 INFO     duration:0.33364105224609375 url:/admin/running/heros/ parameters:{}
+2021-02-23 22:05:12,685 interview.performance 33 INFO     duration:0.1780109405517578 url:/admin/running/heros/10013/change/ parameters:{}
+2021-02-23 22:05:16,866 interview.performance 33 INFO     duration:0.03598189353942871 url:/admin/running/ parameters:{}
+2021-02-23 22:05:20,211 interview.performance 33 INFO     duration:0.07120299339294434 url:/admin/ parameters:{}
+2021-02-23 22:06:18,075 interview.performance 33 INFO     duration:0.5231249332427979 url:/admin/running/heros/ parameters:{}
+2021-02-23 22:06:18,252 interview.performance 33 INFO     duration:0.015996932983398438 url:/admin/jsi18n/ parameters:{}
+2021-02-23 22:13:19,286 interview.performance 33 INFO     duration:0.6205010414123535 url:/admin/running/heros/ parameters:{}
+2021-02-23 22:17:09,975 interview.performance 33 INFO     duration:0.14054393768310547 url:/admin/running/ parameters:{}
+2021-02-23 22:17:11,651 interview.performance 33 INFO     duration:0.04561018943786621 url:/admin/ parameters:{}
+2021-02-23 22:17:13,442 interview.performance 33 INFO     duration:0.0542910099029541 url:/admin/ parameters:{}
+2021-02-23 22:17:14,692 interview.performance 33 INFO     duration:0.0549161434173584 url:/admin/ parameters:{}
+2021-02-23 22:17:23,312 interview.performance 33 INFO     duration:0.3053591251373291 url:/admin/running/heros/ parameters:{}
+2021-02-23 22:17:23,432 interview.performance 33 INFO     duration:0.01394200325012207 url:/admin/jsi18n/ parameters:{}
+2021-02-23 22:17:25,066 interview.performance 33 INFO     duration:0.03189992904663086 url:/admin/running/ parameters:{}
+2021-02-23 22:17:26,375 interview.performance 33 INFO     duration:0.04619193077087402 url:/admin/ parameters:{}
+2021-02-23 22:17:59,780 interview.performance 33 INFO     duration:0.3652639389038086 url:/admin/running/heros/ parameters:{}
+2021-02-23 22:19:27,448 interview.performance 33 INFO     duration:0.3308401107788086 url:/admin/running/heros/ parameters:{}
+2021-02-23 22:19:29,260 interview.performance 33 INFO     duration:0.05380415916442871 url:/admin/running/ parameters:{}
+2021-02-23 22:19:30,859 interview.performance 33 INFO     duration:0.044909000396728516 url:/admin/ parameters:{}
+2021-02-23 22:19:31,701 interview.performance 33 INFO     duration:0.04622817039489746 url:/admin/ parameters:{}
+2021-02-23 22:19:32,832 interview.performance 33 INFO     duration:0.03841376304626465 url:/admin/ parameters:{}
+2021-02-23 22:19:33,754 interview.performance 33 INFO     duration:0.05394601821899414 url:/admin/ parameters:{}
+2021-02-23 22:21:50,590 interview.performance 33 INFO     duration:0.15763521194458008 url:/admin/ parameters:{}
+2021-02-23 22:21:54,253 interview.performance 33 INFO     duration:0.6340680122375488 url:/admin/running/herosplay/ parameters:{}
+2021-02-23 22:21:59,996 interview.performance 33 INFO     duration:0.12255692481994629 url:/admin/running/herosplay/691/change/ parameters:{}
+2021-02-23 22:22:02,444 interview.performance 33 INFO     duration:0.044120073318481445 url:/admin/running/ parameters:{}
+2021-02-23 22:22:04,531 interview.performance 33 INFO     duration:0.04572010040283203 url:/admin/ parameters:{}
+2021-02-23 22:41:01,014 interview.performance 33 INFO     duration:0.2278439998626709 url:/admin/ parameters:{}
+2021-02-23 22:41:03,651 interview.performance 33 INFO     duration:0.3703939914703369 url:/admin/running/heros/ parameters:{}
+2021-02-23 22:41:03,827 interview.performance 33 INFO     duration:0.021113872528076172 url:/admin/jsi18n/ parameters:{}
+2021-02-23 22:41:06,128 interview.performance 33 INFO     duration:0.03743124008178711 url:/admin/running/ parameters:{}
+2021-02-23 22:41:07,735 interview.performance 45 WARNING  url:http://127.0.0.1:8000/admin/running/herosplay/ ** msg:OperationalError(1054, "Unknown column 'heros_play.name' in 'field list'"), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/mysql/base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/MySQLdb/cursors.py", line 206, in execute
+    res = self._query(query)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/MySQLdb/cursors.py", line 319, in _query
+    db.query(q)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/MySQLdb/connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.OperationalError: (1054, "Unknown column 'heros_play.name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 614, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1811, in changelist_view
+    'selection_note': _('0 of %(cnt)s selected') % {'cnt': len(cl.result_list)},
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/query.py", line 269, in __len__
+    self._fetch_all()
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/query.py", line 1308, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1156, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/__init__.py", line 493, in execute
+    return real_execute(self, sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/mysql/base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/MySQLdb/cursors.py", line 206, in execute
+    res = self._query(query)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/MySQLdb/cursors.py", line 319, in _query
+    db.query(q)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/MySQLdb/connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'heros_play.name' in 'field list'")
+
+2021-02-23 22:41:08,356 interview.performance 33 INFO     duration:0.684744119644165 url:/admin/running/herosplay/ parameters:{}
+2021-02-23 22:41:15,641 interview.performance 33 INFO     duration:0.03993105888366699 url:/admin/running/ parameters:{}
+2021-02-23 22:41:17,708 interview.performance 33 INFO     duration:0.036802053451538086 url:/admin/running/ parameters:{}
+2021-02-23 22:41:19,270 interview.performance 45 WARNING  url:http://127.0.0.1:8000/admin/running/herosplay/ ** msg:OperationalError(1054, "Unknown column 'heros_play.name' in 'field list'"), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/mysql/base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/MySQLdb/cursors.py", line 206, in execute
+    res = self._query(query)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/MySQLdb/cursors.py", line 319, in _query
+    db.query(q)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/MySQLdb/connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.OperationalError: (1054, "Unknown column 'heros_play.name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 614, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1811, in changelist_view
+    'selection_note': _('0 of %(cnt)s selected') % {'cnt': len(cl.result_list)},
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/query.py", line 269, in __len__
+    self._fetch_all()
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/query.py", line 1308, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1156, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/__init__.py", line 493, in execute
+    return real_execute(self, sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/db/backends/mysql/base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/MySQLdb/cursors.py", line 206, in execute
+    res = self._query(query)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/MySQLdb/cursors.py", line 319, in _query
+    db.query(q)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/MySQLdb/connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'heros_play.name' in 'field list'")
+
+2021-02-23 22:41:19,853 interview.performance 33 INFO     duration:0.6290760040283203 url:/admin/running/herosplay/ parameters:{}
+2021-02-23 22:46:38,708 interview.performance 33 INFO     duration:0.5933051109313965 url:/admin/running/herosplay/ parameters:{}
+2021-02-23 22:46:39,266 interview.performance 33 INFO     duration:0.56591796875 url:/admin/running/herosplay/ parameters:{}
+2021-02-23 22:53:36,509 interview.performance 33 INFO     duration:0.3278007507324219 url:/admin/running/herosplay/add/ parameters:{}
+2021-02-23 22:53:36,701 interview.performance 33 INFO     duration:0.02080512046813965 url:/admin/jsi18n/ parameters:{}
+2021-02-23 22:53:39,819 interview.performance 33 INFO     duration:0.39858198165893555 url:/admin/running/herosplay/ parameters:{}
+2021-02-23 22:56:43,838 interview.performance 45 WARNING  url:http://127.0.0.1:8000/admin/running/herosplay/ ** msg:TypeError("has_delete_permission() missing 1 required positional argument: 'obj'"), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 614, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1693, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 731, in get_changelist_instance
+    if self.get_actions(request):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 901, in get_actions
+    actions = self._filter_actions_by_permissions(request, self._get_base_actions())
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 888, in _filter_actions_by_permissions
+    if any(has_permission(request) for has_permission in permission_checks):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 888, in <genexpr>
+    if any(has_permission(request) for has_permission in permission_checks):
+TypeError: has_delete_permission() missing 1 required positional argument: 'obj'
+
+2021-02-23 22:56:43,838 interview.performance 45 WARNING  url:http://127.0.0.1:8000/admin/running/herosplay/ ** msg:TypeError("has_delete_permission() missing 1 required positional argument: 'obj'"), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 614, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1693, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 731, in get_changelist_instance
+    if self.get_actions(request):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 901, in get_actions
+    actions = self._filter_actions_by_permissions(request, self._get_base_actions())
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 888, in _filter_actions_by_permissions
+    if any(has_permission(request) for has_permission in permission_checks):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 888, in <genexpr>
+    if any(has_permission(request) for has_permission in permission_checks):
+TypeError: has_delete_permission() missing 1 required positional argument: 'obj'
+
+2021-02-23 22:56:44,383 interview.performance 33 INFO     duration:0.6613650321960449 url:/admin/running/herosplay/ parameters:{}
+2021-02-23 22:56:44,383 interview.performance 33 INFO     duration:0.5944709777832031 url:/admin/running/herosplay/ parameters:{}
+2021-02-23 22:56:45,511 interview.performance 45 WARNING  url:http://127.0.0.1:8000/admin/running/herosplay/ ** msg:TypeError("has_delete_permission() missing 1 required positional argument: 'obj'"), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 614, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1693, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 731, in get_changelist_instance
+    if self.get_actions(request):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 901, in get_actions
+    actions = self._filter_actions_by_permissions(request, self._get_base_actions())
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 888, in _filter_actions_by_permissions
+    if any(has_permission(request) for has_permission in permission_checks):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 888, in <genexpr>
+    if any(has_permission(request) for has_permission in permission_checks):
+TypeError: has_delete_permission() missing 1 required positional argument: 'obj'
+
+2021-02-23 22:56:46,006 interview.performance 33 INFO     duration:0.5024011135101318 url:/admin/running/herosplay/ parameters:{}
+2021-02-23 22:56:51,154 interview.performance 45 WARNING  url:http://127.0.0.1:8000/admin/running/herosplay/add/ ** msg:PermissionDenied(), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 614, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1653, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1534, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1551, in _changeform_view
+    raise PermissionDenied
+django.core.exceptions.PermissionDenied
+
+2021-02-23 22:56:51,502 interview.performance 33 INFO     duration:0.3724961280822754 url:/admin/running/herosplay/add/ parameters:{}
+2021-02-23 22:56:53,538 interview.performance 45 WARNING  url:http://127.0.0.1:8000/admin/running/ ** msg:TypeError("has_delete_permission() missing 1 required positional argument: 'obj'"), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 251, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 516, in app_index
+    app_dict = self._build_app_dict(request, app_label)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 434, in _build_app_dict
+    perms = model_admin.get_model_perms(request)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 661, in get_model_perms
+    'delete': self.has_delete_permission(request),
+TypeError: has_delete_permission() missing 1 required positional argument: 'obj'
+
+2021-02-23 22:56:53,915 interview.performance 33 INFO     duration:0.4147160053253174 url:/admin/running/ parameters:{}
+2021-02-23 22:56:55,691 interview.performance 45 WARNING  url:http://127.0.0.1:8000/admin/running/heros/ ** msg:TypeError("has_delete_permission() missing 1 required positional argument: 'obj'"), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 614, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1809, in changelist_view
+    **self.admin_site.each_context(request),
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 312, in each_context
+    'available_apps': self.get_app_list(request),
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 485, in get_app_list
+    app_dict = self._build_app_dict(request)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 434, in _build_app_dict
+    perms = model_admin.get_model_perms(request)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 661, in get_model_perms
+    'delete': self.has_delete_permission(request),
+TypeError: has_delete_permission() missing 1 required positional argument: 'obj'
+
+2021-02-23 22:56:55,990 interview.performance 33 INFO     duration:0.3272128105163574 url:/admin/running/heros/ parameters:{}
+2021-02-23 22:56:56,905 interview.performance 45 WARNING  url:http://127.0.0.1:8000/admin/running/heros/ ** msg:TypeError("has_delete_permission() missing 1 required positional argument: 'obj'"), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 614, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1809, in changelist_view
+    **self.admin_site.each_context(request),
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 312, in each_context
+    'available_apps': self.get_app_list(request),
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 485, in get_app_list
+    app_dict = self._build_app_dict(request)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 434, in _build_app_dict
+    perms = model_admin.get_model_perms(request)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 661, in get_model_perms
+    'delete': self.has_delete_permission(request),
+TypeError: has_delete_permission() missing 1 required positional argument: 'obj'
+
+2021-02-23 22:56:57,348 interview.performance 33 INFO     duration:0.46704888343811035 url:/admin/running/heros/ parameters:{}
+2021-02-23 22:56:58,403 interview.performance 45 WARNING  url:http://127.0.0.1:8000/admin/running/heros/ ** msg:TypeError("has_delete_permission() missing 1 required positional argument: 'obj'"), Traceback (most recent call last):
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/sentry_sdk/integrations/django/views.py", line 67, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 614, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 233, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 1809, in changelist_view
+    **self.admin_site.each_context(request),
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 312, in each_context
+    'available_apps': self.get_app_list(request),
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 485, in get_app_list
+    app_dict = self._build_app_dict(request)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 434, in _build_app_dict
+    perms = model_admin.get_model_perms(request)
+  File "/Users/xing_zhi/opt/miniconda3/lib/python3.8/site-packages/django/contrib/admin/options.py", line 661, in get_model_perms
+    'delete': self.has_delete_permission(request),
+TypeError: has_delete_permission() missing 1 required positional argument: 'obj'
+
+2021-02-23 22:56:58,908 interview.performance 33 INFO     duration:0.5276269912719727 url:/admin/running/heros/ parameters:{}
+2021-02-23 22:57:40,298 interview.performance 33 INFO     duration:0.6199259757995605 url:/admin/running/heros/ parameters:{}
+2021-02-23 22:57:42,667 interview.performance 33 INFO     duration:0.04042387008666992 url:/admin/running/ parameters:{}
+2021-02-23 22:57:44,537 interview.performance 33 INFO     duration:0.16050267219543457 url:/admin/running/herosplay/ parameters:{}
+2021-02-23 22:57:49,823 interview.performance 33 INFO     duration:0.08263087272644043 url:/admin/running/herosplay/691/change/ parameters:{}
+2021-02-23 22:57:52,188 interview.performance 33 INFO     duration:0.03894805908203125 url:/admin/running/ parameters:{}
+2021-02-23 22:58:23,115 interview.performance 33 INFO     duration:0.13923192024230957 url:/admin/running/herosplay/ parameters:{}
+2021-02-23 23:01:05,020 interview.performance 33 INFO     duration:0.3476541042327881 url:/admin/running/herosplay/ parameters:{}
+2021-02-23 23:01:10,925 interview.performance 33 INFO     duration:0.041140079498291016 url:/admin/running/ parameters:{}
+2021-02-23 23:01:12,608 interview.performance 33 INFO     duration:0.30153703689575195 url:/admin/running/heros/ parameters:{}
+2021-02-23 23:01:14,374 interview.performance 33 INFO     duration:0.029211044311523438 url:/admin/running/ parameters:{}
+2021-02-23 23:01:15,729 interview.performance 33 INFO     duration:0.1805720329284668 url:/admin/running/herosplay/ parameters:{}
+2021-02-23 23:04:25,601 interview.performance 33 INFO     duration:0.28969597816467285 url:/admin/running/herosplay/ parameters:{}
+2021-02-23 23:04:27,436 interview.performance 33 INFO     duration:0.04994511604309082 url:/admin/running/ parameters:{}
+2021-02-23 23:04:29,354 interview.performance 33 INFO     duration:0.26407623291015625 url:/admin/running/heros/ parameters:{}
+2021-02-23 23:04:29,434 interview.performance 33 INFO     duration:0.01709294319152832 url:/admin/jsi18n/ parameters:{}
+2021-02-23 23:04:32,860 interview.performance 33 INFO     duration:0.02950596809387207 url:/admin/running/ parameters:{}
+2021-02-23 23:25:12,839 interview.performance 33 INFO     duration:0.16553997993469238 url:/admin/running/ parameters:{}
+2021-02-23 23:25:15,383 interview.performance 33 INFO     duration:0.4850640296936035 url:/admin/running/heros/ parameters:{}
+2021-02-23 23:25:15,537 interview.performance 33 INFO     duration:0.016063213348388672 url:/admin/jsi18n/ parameters:{}
+2021-02-23 23:25:17,319 interview.performance 33 INFO     duration:0.033316850662231445 url:/admin/running/ parameters:{}
+2021-02-23 23:25:18,620 interview.performance 33 INFO     duration:0.17725515365600586 url:/admin/running/herosplay/ parameters:{}
+2021-02-23 23:25:45,007 interview.performance 33 INFO     duration:0.0431370735168457 url:/admin/running/ parameters:{}
+2021-02-23 23:26:21,013 interview.performance 33 INFO     duration:0.15849709510803223 url:/admin/running/ parameters:{}
+2021-02-23 23:26:23,168 interview.performance 33 INFO     duration:0.5162250995635986 url:/admin/running/heros/ parameters:{}
+2021-02-23 23:26:25,970 interview.performance 33 INFO     duration:0.03920102119445801 url:/admin/running/ parameters:{}
+2021-02-23 23:26:27,599 interview.performance 33 INFO     duration:0.46723103523254395 url:/admin/running/herosplay/ parameters:{}
+2021-02-23 23:26:29,813 interview.performance 33 INFO     duration:0.036520957946777344 url:/admin/running/ parameters:{}
+2021-02-23 23:26:31,424 interview.performance 33 INFO     duration:0.6172678470611572 url:/admin/running/heros/ parameters:{}
+2021-02-24 22:19:32,232 interview.performance 33 INFO     duration:0.5901088714599609 url:/admin/running/heros/ parameters:{}
+2021-02-24 22:19:32,469 interview.performance 33 INFO     duration:0.033354997634887695 url:/admin/jsi18n/ parameters:{}
+2021-02-24 22:20:06,227 interview.performance 33 INFO     duration:0.03572392463684082 url:/admin/ parameters:{}
+2021-02-24 22:20:14,184 interview.performance 33 INFO     duration:1.3380379676818848 url:/admin/jobs/resume/ parameters:{}
+2021-02-24 22:20:19,399 interview.performance 33 INFO     duration:0.13417410850524902 url:/admin/jobs/resume/add/ parameters:{}
+2021-02-24 22:21:18,962 interview.performance 33 INFO     duration:0.29630208015441895 url:/admin/jobs/resume/add/ parameters:{}
+2021-02-24 22:21:19,070 interview.performance 33 INFO     duration:0.09916329383850098 url:/admin/jobs/resume/ parameters:{}
+2021-02-24 22:22:11,633 interview.performance 33 INFO     duration:0.12645721435546875 url:/admin/jobs/ parameters:{}
+2021-02-24 22:22:16,287 interview.performance 33 INFO     duration:0.04987192153930664 url:/admin/jobs/job/ parameters:{}
+2021-02-24 22:22:18,716 interview.performance 33 INFO     duration:0.05060005187988281 url:/admin/jobs/job/add/ parameters:{}
+2021-02-24 22:23:53,862 interview.performance 33 INFO     duration:0.29854798316955566 url:/admin/jobs/job/add/ parameters:{}
+2021-02-24 22:23:54,044 interview.performance 33 INFO     duration:0.1127469539642334 url:/admin/jobs/job/ parameters:{}
+2021-02-24 22:36:08,950 interview.performance 33 INFO     duration:0.13389015197753906 url:/api/users/ parameters:{}
+2021-02-24 22:36:13,916 interview.performance 33 INFO     duration:0.036897897720336914 url:/api/ parameters:{}
+2021-02-24 22:36:15,752 interview.performance 33 INFO     duration:0.0824117660522461 url:/api/jobs/ parameters:{}
+2021-02-24 23:02:20,486 interview.performance 33 INFO     duration:1.1631529331207275 url:/admin/jobs/job/ parameters:{}
+2021-02-24 23:02:20,656 interview.performance 33 INFO     duration:0.04730391502380371 url:/admin/jsi18n/ parameters:{}
+2021-02-24 23:02:23,965 interview.performance 33 INFO     duration:0.06342697143554688 url:/admin/ parameters:{}
+2021-02-24 23:02:25,676 interview.performance 33 INFO     duration:0.05528402328491211 url:/admin/ parameters:{}
+2021-02-24 23:02:26,917 interview.performance 33 INFO     duration:0.05306410789489746 url:/ parameters:{}
+2021-02-24 23:02:30,033 interview.performance 33 INFO     duration:0.08028078079223633 url:/admin/ parameters:{}
+2021-02-24 23:04:07,365 interview.performance 33 INFO     duration:0.6962156295776367 url:/admin/ parameters:{}
+2021-02-24 23:04:08,934 interview.performance 33 INFO     duration:0.0650949478149414 url:/admin/ parameters:{}
+2021-02-24 23:04:09,839 interview.performance 33 INFO     duration:0.05836200714111328 url:/admin/ parameters:{}
+2021-02-24 23:04:10,929 interview.performance 33 INFO     duration:0.0899660587310791 url:/admin/ parameters:{}
+2021-02-24 23:04:16,259 interview.performance 33 INFO     duration:0.5313191413879395 url:/admin/jobs/resume/ parameters:{}
+2021-02-24 23:04:16,277 interview.performance 33 INFO     duration:2.0476930141448975 url:/admin/jobs/resume/ parameters:{}
+2021-02-24 23:04:20,926 interview.performance 33 INFO     duration:0.05685281753540039 url:/admin/ parameters:{}
+2021-02-24 23:06:58,561 interview.performance 33 INFO     duration:0.6549911499023438 url:/admin/ parameters:{}
+2021-02-24 23:07:17,817 interview.performance 33 INFO     duration:0.0607607364654541 url:/admin/ parameters:{}
+2021-02-24 23:07:18,803 interview.performance 33 INFO     duration:0.0760500431060791 url:/admin/ parameters:{}
+2021-02-24 23:07:19,165 interview.performance 33 INFO     duration:0.06481409072875977 url:/admin/ parameters:{}
+2021-02-24 23:07:19,604 interview.performance 33 INFO     duration:0.05108499526977539 url:/admin/ parameters:{}
+2021-02-24 23:07:45,730 interview.performance 33 INFO     duration:0.07128119468688965 url:/admin/ parameters:{}
+2021-02-24 23:07:51,229 interview.performance 33 INFO     duration:0.033952951431274414 url:/debug/ parameters:{}
+2021-02-24 23:07:54,198 interview.performance 33 INFO     duration:0.05968832969665527 url:/admin/ parameters:{}
+2021-02-24 23:07:55,521 interview.performance 33 INFO     duration:0.07384085655212402 url:/admin/ parameters:{}
+2021-02-24 23:07:56,738 interview.performance 33 INFO     duration:0.08869314193725586 url:/admin/ parameters:{}
+2021-02-24 23:08:06,745 interview.performance 33 INFO     duration:0.017966032028198242 url:/admin/ parameters:{}
+2021-02-24 23:08:07,200 interview.performance 33 INFO     duration:0.43854379653930664 url:/admin/login/ parameters:{'next': '/admin/'}
+2021-02-24 23:08:07,729 interview.performance 33 INFO     duration:0.14442181587219238 url:/favicon.ico parameters:{}
+2021-02-24 23:08:12,589 interview.performance 33 INFO     duration:0.16327309608459473 url:/admin/login/ parameters:{'next': '/admin/'}
+2021-02-24 23:08:19,215 interview.performance 33 INFO     duration:0.09527397155761719 url:/admin/login/ parameters:{'next': '/admin/'}
+2021-02-24 23:08:19,269 interview.performance 33 INFO     duration:0.04647493362426758 url:/admin/ parameters:{}
+2021-02-24 23:08:23,004 interview.performance 33 INFO     duration:0.06217598915100098 url:/admin/ parameters:{}
+2021-02-24 23:10:38,475 interview.performance 33 INFO     duration:0.6914730072021484 url:/admin/ parameters:{}
+2021-02-25 22:28:29,060 interview.performance 33 INFO     duration:0.13712120056152344 url:/api/jobs/ parameters:{}
+2021-02-25 22:29:58,905 interview.performance 33 INFO     duration:0.3913078308105469 url:/api/jobs/ parameters:{}
+2021-02-25 22:30:06,769 interview.performance 33 INFO     duration:0.031049013137817383 url:/api/ parameters:{}
+2021-02-25 22:30:20,428 interview.performance 33 INFO     duration:0.09058117866516113 url:/admin/ parameters:{}
+2021-02-25 22:30:22,956 interview.performance 33 INFO     duration:0.24667692184448242 url:/admin/interview/candidate/ parameters:{}
+2021-02-25 22:30:23,112 interview.performance 33 INFO     duration:0.07015585899353027 url:/admin/jsi18n/ parameters:{}
+2021-02-25 22:30:26,095 interview.performance 33 INFO     duration:0.027755022048950195 url:/admin/interview/ parameters:{}
+2021-02-25 22:30:27,817 interview.performance 33 INFO     duration:0.09889721870422363 url:/admin/ parameters:{}
+2021-02-25 22:30:30,764 interview.performance 33 INFO     duration:1.2601258754730225 url:/admin/jobs/resume/ parameters:{}
+2021-02-25 22:30:33,432 interview.performance 33 INFO     duration:0.028463125228881836 url:/admin/jobs/ parameters:{}
+2021-02-25 22:30:34,463 interview.performance 33 INFO     duration:0.05603361129760742 url:/admin/jobs/job/ parameters:{}
+2021-02-25 22:30:37,051 interview.performance 33 INFO     duration:0.12064695358276367 url:/admin/jobs/job/add/ parameters:{}
+2021-02-25 22:31:56,171 interview.performance 33 INFO     duration:0.39934587478637695 url:/admin/jobs/job/add/ parameters:{}
+2021-02-25 22:31:56,303 interview.performance 33 INFO     duration:0.10289597511291504 url:/admin/jobs/job/ parameters:{}
+2021-02-25 22:38:57,876 interview.performance 33 INFO     duration:0.23513078689575195 url:/job/1/ parameters:{}
+2021-02-25 22:38:57,898 interview.performance 33 INFO     duration:0.01918506622314453 url:/joblist/ parameters:{}
+2021-02-25 22:39:20,488 interview.performance 33 INFO     duration:0.017453908920288086 url:/api/jobs/ parameters:{}
+2021-02-25 22:39:22,076 interview.performance 33 INFO     duration:0.015554189682006836 url:/api/jobs/ parameters:{}
+2021-02-25 22:39:33,428 interview.performance 33 INFO     duration:0.06911706924438477 url:/admin/jobs/job/ parameters:{}
+2021-02-25 22:39:34,418 interview.performance 33 INFO     duration:0.060099124908447266 url:/admin/jobs/job/ parameters:{}
+2021-02-25 22:39:35,440 interview.performance 33 INFO     duration:0.09791088104248047 url:/admin/jobs/job/ parameters:{}
+2021-02-25 22:39:37,440 interview.performance 33 INFO     duration:0.012725114822387695 url:/api/jobs/ parameters:{}
+2021-02-25 22:39:56,319 interview.performance 33 INFO     duration:0.012603044509887695 url:/api/jobs/ parameters:{}
+2021-02-25 22:39:56,702 interview.performance 33 INFO     duration:0.011317968368530273 url:/api/jobs/ parameters:{}
+2021-02-25 22:39:56,888 interview.performance 33 INFO     duration:0.011766910552978516 url:/api/jobs/ parameters:{}
+2021-02-25 22:39:57,078 interview.performance 33 INFO     duration:0.01258397102355957 url:/api/jobs/ parameters:{}
+2021-02-25 22:39:57,423 interview.performance 33 INFO     duration:0.02579784393310547 url:/api/jobs/ parameters:{}
+2021-02-25 23:02:38,652 interview.performance 33 INFO     duration:0.04747200012207031 url:/admin/ parameters:{}
+2021-02-25 23:14:03,183 interview.performance 33 INFO     duration:0.15977096557617188 url:/ parameters:{}
+2021-02-25 23:14:12,079 interview.performance 33 INFO     duration:0.12602806091308594 url:/admin/ parameters:{}
+2021-02-25 23:14:14,068 interview.performance 33 INFO     duration:0.11475563049316406 url:/api/ parameters:{}
+2021-02-25 23:14:15,764 interview.performance 33 INFO     duration:0.06749200820922852 url:/api/jobs/ parameters:{}
+2021-02-25 23:14:54,970 interview.performance 33 INFO     duration:0.002329111099243164 url:/ parameters:{}
+2021-02-25 23:14:55,987 interview.performance 33 INFO     duration:0.0026140213012695312 url:/ parameters:{}
+2021-02-25 23:14:56,722 interview.performance 33 INFO     duration:0.0024971961975097656 url:/ parameters:{}
+2021-02-25 23:15:00,398 interview.performance 33 INFO     duration:0.005808830261230469 url:/api/jobs/ parameters:{}
+2021-02-25 23:15:02,996 interview.performance 33 INFO     duration:0.029412031173706055 url:/admin/ parameters:{}
+2021-02-25 23:15:17,841 interview.performance 33 INFO     duration:0.002499818801879883 url:/ parameters:{}
+2021-02-25 23:16:10,095 interview.performance 33 INFO     duration:0.02096414566040039 url:/ parameters:{}
+2021-02-25 23:17:04,613 interview.performance 33 INFO     duration:0.0027589797973632812 url:/ parameters:{}
+2021-02-25 23:17:37,292 interview.performance 33 INFO     duration:0.20647025108337402 url:/ parameters:{}
+2021-02-25 23:17:48,368 interview.performance 33 INFO     duration:0.029491901397705078 url:/favicon.ico parameters:{}
+2021-02-25 23:17:58,809 interview.performance 33 INFO     duration:0.03675699234008789 url:/i18n/setlang/ parameters:{}
+2021-02-25 23:17:58,852 interview.performance 33 INFO     duration:0.02128291130065918 url:/ parameters:{}
+2021-02-25 23:18:01,970 interview.performance 33 INFO     duration:0.005548238754272461 url:/i18n/setlang/ parameters:{}
+2021-02-25 23:18:02,000 interview.performance 33 INFO     duration:0.016023874282836914 url:/ parameters:{}
+2021-02-25 23:21:28,392 interview.performance 33 INFO     duration:0.024941205978393555 url:/ parameters:{}
+2021-02-25 23:21:32,278 interview.performance 33 INFO     duration:0.015817880630493164 url:/ parameters:{}
+2021-02-25 23:21:35,111 interview.performance 33 INFO     duration:0.12047171592712402 url:/ parameters:{}
